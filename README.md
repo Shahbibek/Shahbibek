@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Shahbibek/Shahbibek/main/bibek_banner.png)
 <h1 align="center">Hi 👋, I'm Bibek Sah</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="bibek" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
